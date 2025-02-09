@@ -1,0 +1,13 @@
+### .gitignore
+# Go binaries
+/voicebot
+/bin/
+/pkg/
+
+# Go modules
+go.sum
+go.mod
+
+# Logs and temp files
+*.log
+tmp/
