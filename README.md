@@ -11,7 +11,7 @@
 ```sh
 git clone https://github.com/nikhildhole/voicebot.git
 cd voicebot
-go run main.go
+go run cmd/server/main.go
 ```
 
 ### Run with Docker
